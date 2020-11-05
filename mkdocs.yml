@@ -1,0 +1,6 @@
+site_name: Hudi.info
+nav:
+    - Home: index.md
+    - Links: links.md
+    - About: about.md
+theme: readthedocs
